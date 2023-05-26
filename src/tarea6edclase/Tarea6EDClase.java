@@ -18,7 +18,7 @@ public class Tarea6EDClase {
             screenOutput(Total);
             salidaPantalla();
         }else {
-         Tar   Total = precioProducto*0.95;
+            Total = precioProducto*0.95;
             screenOutput(Total);
             salidaPantalla();
         }   
